@@ -67,7 +67,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                               LMOD0, LMOD1,  LMOD2,  LMOD3, LMOD6,
 
 			KC_PAUS, KC_HOME,   KC_UP,   KC_END,   AG_SCLN, KC_QUOT,
-	LCTL(KC_BSPC),	KC_INS,  KC_LEFT,   KC_DOWN, KC_RIGHT, KC_PGUP, _______,
+	KC_BSPC, KC_INS,  KC_LEFT,   KC_DOWN, KC_RIGHT, KC_PGUP, _______,
 	RMOD5,	KC_PSCR, KC_VOLD,   KC_MEDIA_PLAY_PAUSE, KC_VOLU,  KC_PGDN, _______,
 	RMOD6, RMOD3, RMOD2, RMOD1, RMOD0	),
 	// На Солнце я раскидал эфки, но в основном это копия Луны. Сам придумаешь, что тут можно разместить. Подумай про эмуляцию мыши или сложные хоткеи.

@@ -69,7 +69,7 @@ enum custom_key {
 #define RMOD0 WIN_0  
 #define RMOD1 kLETTER  
 #define RMOD2 SHF_N  
-#define RMOD3 KC_RCTRL  
+#define RMOD3 CTRL_0  
 #define RMOD4 KC_BSPC  
 #define RMOD5 KC_ESC
 #define RMOD6 kMOON
